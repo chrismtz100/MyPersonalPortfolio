@@ -99,11 +99,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #4e9b83;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #38813f 30%, #623a91 70%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #38813f 30%, #623a91 70%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #38813f 30%, #623a91 70%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #38813f 30%, #623a91 70%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3768,6 +3768,13 @@ input, select, textarea {
 		margin: 0 auto;
 	}
 
+		#wrapper .skills {
+			margin-bottom: 5em;
+			padding: 5em;
+			text-align: center;
+			padding: 0;
+		}
+
 		@media screen and (max-width: 480px) {
 
 			#wrapper {
@@ -3782,4 +3789,11 @@ input, select, textarea {
 				max-width: 100%;
 			}
 
+		}
+
+	#skills-col {
+		width: 33.33333%;
+	}
+		#skills-col .col-narrower {
+			width: 20%;
 		}

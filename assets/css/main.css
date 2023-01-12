@@ -2522,7 +2522,7 @@ input[type="radio"]:focus+label:before {
 
 .image.main {
 	display: block;
-	margin: 0 0 3em 0;
+	/* margin: 0 0 3em 0; */
 	width: 100%;
 }
 
@@ -2631,11 +2631,8 @@ ul.actions.special {
 	-ms-justify-content: center;
 	justify-content: center;
 	width: 100%;
-	margin-left: 0;
-}
-
-ul.actions.special li:first-child {
-	padding-left: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 ul.actions.stacked {
@@ -3092,7 +3089,7 @@ table.alt tbody tr td {
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	align-items: center;
-	margin: 0 0 2em 0;
+	margin: 2em 0 1em 0;
 }
 
 .spotlight .content {
@@ -3160,7 +3157,7 @@ table.alt tbody tr td {
 		-ms-flex: 0 1 auto;
 		flex: 0 1 auto;
 		margin-left: 0;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 }
 

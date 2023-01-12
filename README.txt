@@ -1,4 +1,4 @@
-GitHub Repo Page: https://www.chreechtech.com/
+GitHub Repo Page: www.chreechtech.com/
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn

@@ -3089,7 +3089,7 @@ table.alt tbody tr td {
 	-webkit-align-items: center;
 	-ms-align-items: center;
 	align-items: center;
-	margin: 2em 0 1em 0;
+	/* margin: 2em 0 1em 0; */
 }
 
 .spotlight .content {
@@ -3733,7 +3733,7 @@ body.is-preload #header.alt .logo {
 
 @media screen and (max-width: 980px) {
 	#main>.main {
-		padding: 4em 3em 2em 3em;
+		/* padding: 4em 3em 2em 3em; */
 	}
 
 	#main>.main>.image.main:first-child {
@@ -4079,3 +4079,4 @@ body.is-preload #header.alt .logo {
 		line-height: 32px;
 	}
 }
+

@@ -1,4 +1,4 @@
-GitHub Repo Page: https://chrismtz100.github.io/myportfolio.github.io/
+GitHub Repo Page: https://www.chreechtech.com/
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
